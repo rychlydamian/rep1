@@ -8,4 +8,8 @@ s=int(p)
 t=int(n)	
 a=kalkulator(s,t)
 
+def mnozenie (nowy,stary):
+ return(x*y)
+
+
 
